@@ -1,7 +1,7 @@
 # French Natural Language Understanding
 
 - Goal ?
-   Detect intentions in sentences in the banking industry in French Language
+   - Understand intentions of banking industry jargon 
 
 - Tools ?
    - Rasa is an open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management,             connect to Slack, Facebook, and more - Create chatbots and voice assistants
