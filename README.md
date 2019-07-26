@@ -1,7 +1,11 @@
 # French Natural Language Understanding
 
-Using RASA & SpaCy & Tensorflow to detect intentions in French sentences
+- Goal ?
+   Detect intentions in sentences in the banking industry in French Language
 
-Rasa is an open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- Tools ?
+   - Rasa is an open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management,             connect to Slack, Facebook, and more - Create chatbots and voice assistants
+   
+   - spaCy is a free, open-source library for advanced Natural Language Processing (NLP) in Python. It interoperates seamlessly with           TensorFlow, PyTorch, scikit-learn, Gensim and the rest of Python's awesome AI ecosystem
 
-This is a demo of how you could train a model to understand intents in french sentences in banking industry 
+
