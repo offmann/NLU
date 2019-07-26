@@ -1,4 +1,4 @@
-# Natural Language Understanding
+# French Natural Language Understanding
 
 Using RASA & SpaCy & Tensorflow to detect intentions in French sentences
 
